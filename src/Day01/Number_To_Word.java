@@ -1,3 +1,5 @@
+package Day01;
+
 import java.util.Scanner;
 
 public class Number_To_Word {
